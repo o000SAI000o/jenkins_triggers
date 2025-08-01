@@ -13,8 +13,8 @@ This project showcases the implementation of four different **Jenkins triggers**
 - Configured via GitHub Webhooks and Jenkins Git plugin.
 - ✅ Ideal for real-time CI/CD pipelines.
 
+### Hands-On :
 - https://github.com/user-attachments/assets/9bb3c155-9807-4709-a49d-94a54c55eb91
-
 
 
 ### 2. Poll SCM Trigger
