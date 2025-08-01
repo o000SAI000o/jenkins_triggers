@@ -1,1 +1,1 @@
-Testing Build trigger in Jenkins pipeline after pushing this file in repo, build triggers when anything is pushed in repository.lets gooo..!
+Testing Build trigger in Jenkins pipeline after pushing this file in repo, build triggers when anything is pushed in repository.lets see poll scm..!
